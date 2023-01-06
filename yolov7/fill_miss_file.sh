@@ -1,0 +1,1 @@
+python3 ./runs/fillmissfile.py --path_detect '' --path_img ''
