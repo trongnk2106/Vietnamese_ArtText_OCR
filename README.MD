@@ -7,7 +7,7 @@
 ### Sử dụng thêm ESRGAN thực hiện super resolution cho những ảnh nhỏ, nhòe trước khi cho 
 
 #### Chúng tôi thực hiện argument thêm data, có thể xem thử repo :
-[Markdown](https://github.com/UIT-20521888/argu_data.git)
+[DATA ARGUMENT](https://github.com/UIT-20521888/argu_data.git)
 
 
 #### Cài đặt:
@@ -15,11 +15,11 @@
 ##### Gitclone repo: 
 
 ##### Cài đặt yolov7 theo hướng dẫn tại repo gốc 
-[Markdown](https://github.com/WongKinYiu/yolov7.git)
+[YOLOV7](https://github.com/WongKinYiu/yolov7.git)
 
 
 #### link pretrain yolov7 : 
-[Markdown](https://drive.google.com/file/d/16lWdKYaMSemKlswkJD7Gr4S1zjtVx8vK/view?usp=share_link)
+[Pretrain Yolov7](https://drive.google.com/file/d/16lWdKYaMSemKlswkJD7Gr4S1zjtVx8vK/view?usp=share_link)
 
 ##### Train: 
 > bash train.sh
@@ -39,7 +39,7 @@
 
 #### Cài đặt vietocr theo hướng dẫn của repo gốc, hoặc build docker image từ dockerfile trong folder vietocr.Chúng tôi đã tích hợp super resolution bằng ESRGAN vào quá trình infer 
 
-[Markdown](https://github.com/pbcquoc/vietocr.git)
+[VIETOCR](https://github.com/pbcquoc/vietocr.git)
 
 ##### train: 
 > python3 train.py 
@@ -52,5 +52,5 @@
 
 #### Link pretrain vietocr: 
 
-[Markdown](https://drive.google.com/file/d/1M4LVXNV71CGJGtkgjv5ax9Xy2QhXZPer/view?usp=share_link)
+[Pretrain Vietocr](https://drive.google.com/file/d/1M4LVXNV71CGJGtkgjv5ax9Xy2QhXZPer/view?usp=share_link)
 
